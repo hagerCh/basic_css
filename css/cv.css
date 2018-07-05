@@ -1,0 +1,37 @@
+html{
+	padding:0;
+	margin:auto;
+}
+h1{
+	color: #C31C40; 
+	font-family: sans-serif;
+	text-align: center;
+}
+p{ 
+	text-align: center;
+}
+hr{
+	width: 600px; 
+}
+body{
+	margin: 0 400px;
+}
+#name{
+	background-color: #FFFCFC;
+	padding: 10px;
+}
+h2{
+	font-size: 25px;
+}
+
+#profile {
+	list-style-image: url(../res/profile.png); 
+}
+
+#education {
+	list-style-image: url(../res/education.png); 
+}
+
+#experience {
+	list-style-image: url(../res/experience.png); 
+}
